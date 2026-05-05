@@ -1,0 +1,10 @@
+# Ignore everything by default
+*
+
+# But allow specific directories and files
+!.gitignore
+!pom.xml
+!docker-compose.yml
+!README.md
+!frontend/
+!src/
